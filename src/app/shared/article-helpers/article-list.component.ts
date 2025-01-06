@@ -10,7 +10,8 @@ import { takeUntil } from "rxjs/operators";
 
 @Component({
   selector: "app-article-list",
-  styleUrls: ["article-list.component.css"],
+  // styleUrls: ["article-list.component.css"],
+  styleUrls: ["../../../styles.css"],
   templateUrl: "./article-list.component.html",
   imports: [ArticlePreviewComponent, NgForOf, NgClass, NgIf],
   standalone: true,
