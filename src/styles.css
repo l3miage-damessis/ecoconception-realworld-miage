@@ -10,3 +10,9 @@
 .page-link {
   cursor: pointer;
 }
+
+.home-img {
+  background-image: url("https://cuef.univ-grenoble-alpes.fr/medias/photo/grenoble_1643898224793-jpg");
+  width: 100%;
+  height: 100%;
+}
